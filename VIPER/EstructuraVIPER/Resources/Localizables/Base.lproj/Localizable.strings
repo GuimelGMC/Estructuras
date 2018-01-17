@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  EstructuraVIPER
+
+  Created by GuimelGMC on 15/01/18.
+  Copyright © 2018 GuimelGMC. All rights reserved.
+*/
+
+
+/* FIRST VIEW */
+"LBL_EXAMPLE_1" = "Ejemplo de LABEL";
+"LBL_EXAMPLE_2" = "con Strings Localizables";
+"PLACEHOLDER_TEXTFIELD" = "Placeholder para TextField";
+"TITLE_BUTTON_1" = "Open with Navigation";
+"TITLE_BUTTON_2" = "Open without Navigation";
